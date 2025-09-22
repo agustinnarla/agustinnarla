@@ -9,11 +9,6 @@
 ### 👨‍💻 About Me
 - 🎓 **System Analyst**  
 - 🔐 Passionate about **Cybersecurity & Red Teaming**  
-- 🌱 Currently learning:
-  - Nest.js  
-  - Angular  
-- 👯 Open to collaborate on **open source projects**  
-- 💜 Outside tech: I enjoy 🎮 gaming and 🎵 music  
 - 📫 Reach me at: **arlaagustin1@gmail.com**  
 
 ---
