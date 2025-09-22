@@ -1,39 +1,43 @@
 <h1 align="center">Hi 👋, I'm <b>Agustín Arla</b></h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</p>
+
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 System Analyst in progress  
+- 🔐 Passionate about **Cybersecurity & Red Teaming**  
 - 🌱 Currently learning:
   - Nest.js  
   - Angular  
 - 👯 Open to collaborate on **open source projects**  
-- 💜 Outside tech: I love streaming on Twitch, 🎮 gaming, 🎵 listening to music, and 📖 reading science books  
-- 👾 Also creating **tech/programming content** on social media  
+- 💜 Outside tech: I love streaming on Twitch, 🎮 gaming, 🎵 music, and 📖 science books  
 - 📫 Reach me at: **agustin.arla@gmail.com**  
 
 ---
 
 ### 🛠️ Skills
 
-**Languages**
+**Cybersecurity & Tools**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FCC624">
+  <img src="https://img.shields.io/badge/Bash-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25">
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB">
 </p>
 
-**Other Tools & Technologies**
+**Web & Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=FF5D01">
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933">
+  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
+
+**Other Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">
 </p>
 
 ---
@@ -47,5 +51,5 @@
 ---
 
 <p align="center">
-  <i>"Keep learning, keep building, keep growing 🚀"</i>
+  <i>"Keep learning, keep building, keep hacking 🚀"</i>
 </p>
