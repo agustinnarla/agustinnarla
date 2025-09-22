@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Astro-1a1a1a?style=for-the-badge&logo=astro&logoColor=FF5D01">
   <img src="https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
   <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933">
-  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 
@@ -40,7 +39,6 @@
 **Other Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">
 </p>
 
 ---
