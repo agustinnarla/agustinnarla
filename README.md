@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **System Analyst**  
+- 🎓 **System Analyst -- FullStack developer web && mobile**  
 - 🔐 Passionate about **Cybersecurity & Red Teaming**  
 - 📫 Reach me at: **arlaagustin1@gmail.com**  
 
